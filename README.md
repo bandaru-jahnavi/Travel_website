@@ -7,8 +7,3 @@
 <b>#Hope u like the project.<br>
 #Feel free to download the source code and follow for new projects.<br>
 #dont foget to give a star if u like the project.   <br>
-<br>
-
-#Demo VIdeo
-link:https://travel-consultancy-website.herokuapp.com/
-</b>
